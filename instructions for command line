@@ -1,0 +1,7 @@
+Once finished coding in file, save it
+In command line Type the following 
+git add "filename goes here"
+git commit -m "message goes here"
+git push
+
+Check if changes have been made to repository on github website

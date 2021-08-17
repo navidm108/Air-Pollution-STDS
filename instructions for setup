@@ -1,0 +1,14 @@
+Set up
+1. Install git on your local machine
+2. Create a new folder on your local machine where you want the project files to be located
+3. Right click and click on open windows power shell here
+4. Type git clone https://github.com/DStockdale1/Air-pollution
+5. Open Air-Pollution-STDS, right click on git bash here and type git init 
+
+Pull request
+
+To pull data for every new session navigate to folder right click and add type git pull
+This should get all the files onto your local machine where you can work on them.
+
+
+

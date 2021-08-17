@@ -1,0 +1,7 @@
+Open file you want to work on it atom. 
+Save changes to file
+In git tab, click file and press enter to move it from unstaged to staged 
+Write a short description of what's been changed
+Click commit to main or other branch
+At bottom panel, click push
+Changes should be visible on github repo
